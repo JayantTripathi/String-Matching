@@ -1,0 +1,16 @@
+A software life cycle model consists of different phases of a software development process, each phase is executed in different stage and it produces a deliverable input for the next phase of the life cycle. Analysis, design, code construction, testing, and maintenance are the main stages of a software development life cycle. Client requirements are translated in design diagrams, then the code is constructed according to the design diagram.
+At the end, the testing team checks the deliverable output of the implementation stage against client requirements.
+Agile methodology executes in one to four weeks long periods, which is called as a short sprint. Initially the software development team decided to implement one function.
+In the final stage, the deliverable code tested and the development team processes further on the basis of feedback from the customer.
+At every sprint, the project is evaluated and it may change the project direction to meet customer satisfaction more effectively.
+The customer role is very important for successful completion of the project.
+This role defines the requirements of the project, task's priority, and it works very closely with all software developers to implement each requirement of the system.
+Requirement specifications which are defined in the initial phase from clients are converted into the system and software design.
+Hardware and system requirements are specified by the system design, and it also helps to design the system architecture which is required for software execution.
+The software design helps to develop attractive user friendly graphical user interface in order to access a software in real time environment.
+Furthermore, the interface design helps to determine the operation between different systems and it shows how users interact with a software.
+The overall schedule of a project is very hard to make because of fluctuation in user's requirements and change in previous sprint results. Gregorio (2012, p. 2) states that the first phase of the sprint cycle is design, which consists 1-4 weeks as shown in fig 1, but it is highly dependent on the team size and may be it will vary during the project development. As shown in fig 1, after the release of every sprint cycle's output, it will review with the client's requirement and expected outcome.
+Agile methodology executes in one to four weeks long periods, which is called as a short sprint. Initially the software development team decided to implement one function.
+In the final stage, the deliverable code tested and the development team processes further on the basis of feedback from the customer. At every sprint, the project is evaluated and it may change the project direction to meet customer satisfaction more effectively. The customer role is very important for successful completion of the project. This role defines the requirements of the project, task's priority, and it works very closely with all software developers to implement each requirement of the system.
+The customer role is very important for successful completion of the project. This role defines the requirements of the project, task's priority, and it works very closely
+
